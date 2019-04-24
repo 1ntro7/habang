@@ -1,14 +1,3 @@
-adm
-admincp
-admcp
-cp
-modcp
-moderatorcp
-adminare
-admins
-cpanel
-controlpanel";
-$list['end'] = "admin1.php
 admin1.html
 admin2.php
 adminweb/
